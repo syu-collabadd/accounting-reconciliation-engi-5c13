@@ -1,0 +1,10 @@
+id,date,description,amount,reference
+I001,2026-06-01,Office Supplies Purchase,125.50,REF-001
+I002,2026-06-02,Adobe Creative Cloud,499.00,REF-002
+I003,2026-06-03,Invoice Payment Received,-1500.00,INV-1001
+I004,2026-06-05,Google Ads Campaign,320.75,REF-003
+I005,2026-06-07,New Computer Equipment,850.00,REF-004
+I006,2026-06-10,Development Consulting,800.00,REF-005-A
+I007,2026-06-10,Design Consulting,400.00,REF-005-B
+I008,2026-06-13,Conference Travel,456.80,REF-006
+I009,2026-06-15,Slack Enterprise Plan,180.00,REF-007

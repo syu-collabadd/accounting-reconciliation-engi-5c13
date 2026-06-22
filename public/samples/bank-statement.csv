@@ -1,0 +1,9 @@
+id,date,description,amount,reference
+B001,2026-06-01,Office Supplies - Staples,125.50,REF-001
+B002,2026-06-02,Software License - Adobe,499.00,REF-002
+B003,2026-06-03,Client Payment - Acme Corp,-1500.00,INV-1001
+B004,2026-06-05,Marketing Ads - Google,320.75,REF-003
+B005,2026-06-07,Equipment Purchase,850.00,REF-004
+B006,2026-06-10,Consulting Services,1200.00,REF-005
+B007,2026-06-12,Travel Expenses,456.80,REF-006
+B008,2026-06-15,Monthly Subscription - Slack,180.00,REF-007
